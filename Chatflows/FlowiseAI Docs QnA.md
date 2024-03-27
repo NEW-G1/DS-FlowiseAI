@@ -9,16 +9,13 @@
 문서 기반으로 대화형 QnA를 생성하는 Chatflow입니다.
 PDF, Docs, Github등 다양한 문서를 사용할 수 있습니다.
 
-## PDF File
+## PDF File / Markdown Text Splitter
 `PDF File Document Loader`를 사용하여 PDF파일을 로드합니다.
 
-<img src="./images/Docs Qna.png", height="100x", width="100px">
+`Markdown Text Splitter`를 사용하여 마크다운 기준으로 문서를 분할합니다.
 
-## Markdown Text Splitter
+<img src="./images/FlowiseAI Docs QnA_TextSplitters.png" alt="FlowiseAI Docs QnA_TextSplitters">
 
-마크다운 기준으로 문서를 분할합니다.
-
-<img src="./images/Docs Qna.png", height="100x", width="100px">
 
 ## OpenAI Embeddings / In-Memory Vector Store
 
