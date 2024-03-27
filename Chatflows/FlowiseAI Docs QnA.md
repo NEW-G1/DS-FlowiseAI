@@ -4,10 +4,11 @@
 
 - 🤖 문서 기반으로 대화형 QnA를 생성하는 Chatflow 생성
 
-<img src="./images/FlowiseAI Docs QnA.png" alt="FlowiseAI Docs QnA">
-
 문서 기반으로 대화형 QnA를 생성하는 Chatflow입니다.
 PDF, Docs, Github등 다양한 문서를 사용할 수 있습니다.
+
+<img src="./images/FlowiseAI Docs QnA.png" alt="FlowiseAI Docs QnA">
+
 
 ## PDF File / Markdown Text Splitter
 `PDF File Document Loader`를 사용하여 PDF파일을 로드합니다.
