@@ -21,7 +21,7 @@
 
 ## OpenAI Embeddings / In-Memory Vector Store
 
-`OpenAI`를 사용하여 분할된 문서를 Vector Store에 임베딩 처리합니다.
+`OpenAI`를 사용하여 분할된 문서를 `Vector Store`에 임베딩 처리합니다.
 
 <img src="./images/FlowiseAI Docs QnA_Embeddings.png" alt="FlowiseAI Docs QnA_Embeddings">
 
