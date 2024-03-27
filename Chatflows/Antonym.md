@@ -17,23 +17,15 @@
 <img src="./images/Antonym Prompt Template.png">
 
 
-## OpenAI Embeddings / In-Memory Vector Store
+## LLMChain 생성
 
-`OpenAI`를 사용하여 분할된 문서를 `Vector Store`에 임베딩 처리합니다.
+1. 앞서 생성한 `Few Shot Prompt Template`과  ChatOpenAI의 Model을 `LLMChain`에 연결합니다.
 
-<img src="./images/Docs QnA Chain_Embeddings.png" alt="Docs QnA Chain_Embeddings">
-
-## ChatOpenAI / Conversational Retrieval QA Chain
-
-1. `ChatOpenAI`의 LLM Model을 사용하기 위해 발급받은 OpenAI API Key를 설정한 후 Conversational Retrieval QA Chain 연결합니다.
-
-2. `Conversational Retrieval QA Chain`를 사용하여 대화형 체인을 생성합니다.
-
-<img src="./images/Docs QnA Chain_ChatOpenAI.png" alt="Docs QnA Chain_ChatOpenAI">
+<img src="./images/Antonym LLMChain.png">
 
 
 ## Chatflow 실행
 
-업로드한 문서와 관련된 질문을 하고 그와 관련된 답변을 확인합니다.
+단어 입력 시 반의어를 출력하는 것을 확인할 수 있습니다,
 
-<img src="./images/Docs QnA Chain_answer.png" alt="Docs QnA Chain_answer">
+<img src="./images/Antonym execute.png">
