@@ -12,9 +12,9 @@
 
 
 ## PDF File / Markdown Text Splitter
-`PDF File Document Loader`를 사용하여 PDF파일을 로드합니다.
+1. `PDF File Document Loader`를 사용하여 PDF파일을 로드합니다.
 
-`Markdown Text Splitter`를 사용하여 마크다운 기준으로 문서를 분할합니다.
+2. `Markdown Text Splitter`를 사용하여 마크다운 기준으로 문서를 분할합니다.
 
 <img src="./images/FlowiseAI Docs QnA_TextSplitters.png" alt="FlowiseAI Docs QnA_TextSplitters">
 
@@ -27,9 +27,9 @@
 
 ## ChatOpenAI / Conversational Retrieval QA Chain
 
-`ChatOpenAI`의 LLM Model을 사용하기 위해 발급받은 OpenAI API Key를 설정한 후 Conversational Retrieval QA Chain 연결합니다.
+1. `ChatOpenAI`의 LLM Model을 사용하기 위해 발급받은 OpenAI API Key를 설정한 후 Conversational Retrieval QA Chain 연결합니다.
 
-`Conversational Retrieval QA Chain`를 사용하여 대화형 체인을 생성합니다.
+2. `Conversational Retrieval QA Chain`를 사용하여 대화형 체인을 생성합니다.
 
 <img src="./images/FlowiseAI Docs QnA_ChatOpenAI.png" alt="FlowiseAI Docs QnA_ChatOpenAI">
 
