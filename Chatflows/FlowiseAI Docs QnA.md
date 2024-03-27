@@ -24,7 +24,7 @@ PDF, Docs, Github등 다양한 문서를 사용할 수 있습니다.
 
 `OpenAI`를 사용하여 분할된 문서를 Vector Store에 임베딩 처리합니다.
 
-<img src="./images/Docs Qna.png", height="100x", width="100px">
+<img src="./images/FlowiseAI Docs QnA_Embeddings.png" alt="FlowiseAI Docs QnA_Embeddings">
 
 ## ChatOpenAI
 
