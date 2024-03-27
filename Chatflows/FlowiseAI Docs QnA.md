@@ -4,7 +4,7 @@
 
 - 🤖 문서 기반으로 대화형 QnA를 생성하는 Chatflow 생성
 
-<img src="./Chatflows/images/FlowiseAI Docs QnA.png", height="100x", width="100px">
+<img src="./Chatflows/images/FlowiseAI Docs QnA.png" alt="FlowiseAI Docs QnA" width="100" height="100">
 <!-- ![FlowiseAI Docs QnA](images/FlowiseAI Docs QnA.png) -->
 
 문서 기반으로 대화형 QnA를 생성하는 Chatflow입니다.
