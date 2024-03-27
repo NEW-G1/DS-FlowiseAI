@@ -24,19 +24,17 @@ PDF, Docs, Github등 다양한 문서를 사용할 수 있습니다.
 
 <img src="./images/FlowiseAI Docs QnA_Embeddings.png" alt="FlowiseAI Docs QnA_Embeddings">
 
-## ChatOpenAI
+## ChatOpenAI / Conversational Retrieval QA Chain
 
 `ChatOpenAI`의 LLM Model을 사용하기 위해 발급받은 OpenAI API Key를 설정한 후 Conversational Retrieval QA Chain 연결합니다.
 
-<img src="./images/Docs Qna.png", height="100x", width="100px">
-
-## Conversational Retrieval QA Chain
 `Conversational Retrieval QA Chain`를 사용하여 대화형 체인을 생성합니다.
 
-<img src="./images/Docs Qna.png", height="100x", width="100px">
+<img src="./images/FlowiseAI Docs QnA_ChatOpenAI.png" alt="FlowiseAI Docs QnA_ChatOpenAI">
 
-## Chatflow Execute
+
+## Chatflow 실행
 
 업로드한 문서와 관련된 질문을 하고 그와 관련된 답변을 확인합니다.
 
-<img src="./images/answer.png", height="100x", width="100px">
+<img src="./images/FlowiseAI Docs QnA_answer.png" alt="FlowiseAI Docs QnA_answer">
