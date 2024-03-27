@@ -24,7 +24,7 @@
 <img src="./images/Antonym LLMChain.png">
 
 
-## Chatflow 실행
+## Antonym Chatflow 실행
 
 단어 입력 시 반의어를 출력하는 것을 확인할 수 있습니다.
 

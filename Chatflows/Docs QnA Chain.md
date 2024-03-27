@@ -34,7 +34,7 @@
 <img src="./images/Docs QnA Chain_ChatOpenAI.png" alt="Docs QnA Chain_ChatOpenAI">
 
 
-## Chatflow 실행
+## Docs QnA Chatflow 실행
 
 업로드한 문서와 관련된 질문을 하고 그와 관련된 답변을 확인합니다.
 

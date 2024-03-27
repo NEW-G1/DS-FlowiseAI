@@ -24,7 +24,7 @@
 
 <img src="./images/API Agent OpenAI Agent.png">
 
-## Chatflow 실행
+## API Agent OpenAI Chatflow 실행
 
 사용자가 질문했을 때 만화 정보가 있는 링크 API를 호출하여 답변하는 것을 확인할 수 있습니다
 
