@@ -8,7 +8,7 @@
 
 - `PDF`, `CSV`, `JSON`, `Github`등 다양한 문서를 사용할 수 있습니다.
 
-<img src="./images/FlowiseAI Docs QnA.png" alt="FlowiseAI Docs QnA">
+<img src="./images/Docs QnA Chain.png" alt="Docs QnA Chain">
 
 
 ## PDF File / Markdown Text Splitter
@@ -16,14 +16,14 @@
 
 2. `Markdown Text Splitter`를 사용하여 마크다운 기준으로 문서를 분할합니다.
 
-<img src="./images/FlowiseAI Docs QnA_TextSplitters.png" alt="FlowiseAI Docs QnA_TextSplitters">
+<img src="./images/Docs QnA Chain_TextSplitters.png" alt="Docs QnA Chain_TextSplitters">
 
 
 ## OpenAI Embeddings / In-Memory Vector Store
 
 `OpenAI`를 사용하여 분할된 문서를 `Vector Store`에 임베딩 처리합니다.
 
-<img src="./images/FlowiseAI Docs QnA_Embeddings.png" alt="FlowiseAI Docs QnA_Embeddings">
+<img src="./images/Docs QnA Chain_Embeddings.png" alt="Docs QnA Chain_Embeddings">
 
 ## ChatOpenAI / Conversational Retrieval QA Chain
 
@@ -31,11 +31,11 @@
 
 2. `Conversational Retrieval QA Chain`를 사용하여 대화형 체인을 생성합니다.
 
-<img src="./images/FlowiseAI Docs QnA_ChatOpenAI.png" alt="FlowiseAI Docs QnA_ChatOpenAI">
+<img src="./images/Docs QnA Chain_ChatOpenAI.png" alt="Docs QnA Chain_ChatOpenAI">
 
 
 ## Chatflow 실행
 
 업로드한 문서와 관련된 질문을 하고 그와 관련된 답변을 확인합니다.
 
-<img src="./images/FlowiseAI Docs QnA_answer.png" alt="FlowiseAI Docs QnA_answer">
+<img src="./images/Docs QnA Chain_answer.png" alt="Docs QnA Chain_answer">
