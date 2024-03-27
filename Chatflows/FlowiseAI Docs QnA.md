@@ -1,4 +1,4 @@
-# 문서 기반 QnA 챗봇(Docs QnA)
+# 문서 기반 QnA 챗봇(Docs QnA Chain)
 
 **주요내용**
 
