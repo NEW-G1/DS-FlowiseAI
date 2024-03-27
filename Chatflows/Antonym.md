@@ -19,7 +19,7 @@
 
 ## LLMChain 생성
 
-1. 앞서 생성한 `Few Shot Prompt Template`과  ChatOpenAI의 Model을 `LLMChain`에 연결합니다.
+앞서 생성한 `Few Shot Prompt Template`과  `ChatOpenAI`의 `Model`을 `LLMChain`에 연결합니다.
 
 <img src="./images/Antonym LLMChain.png">
 
