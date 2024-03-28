@@ -4,7 +4,7 @@
 
 ### **💡👀💡 여러개의 VectorDB를 기반으로 검색기를 생성하여 대화형 Agent Chatflow 생성**
 
-- `Vectara`, `Pinecone` 등의 여러개의 VectorDB 기반 Retriever를 생성하여 대화형 Agent를 생성합니다.
+- `Vectara`, `Pinecone` 등 여러개의 VectorDB 기반 Retriever를 생성하여 대화형 Agent를 생성합니다.
 
 
 <img src="./images/Multiple VectorDB/Multiple Vector DB.png" alt="API Agent OpenAI">
