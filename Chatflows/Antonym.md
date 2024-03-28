@@ -12,7 +12,7 @@
 ## Few Shot Prompt Template
 1. `Few Shot Prompt Template`를 프롬프트 예제를 구축합니다.
 
-2. `Prompt Template`를 사용하여 사용자가 입력한 단어의 반의어를 출력하는 템플릿을 생성합니다..
+2. `Prompt Template`를 사용하여 사용자가 입력한 단어의 반의어를 출력하는 템플릿을 생성합니다.
 
 <img src="./images/Antonym/Antonym Prompt Template.png">
 
