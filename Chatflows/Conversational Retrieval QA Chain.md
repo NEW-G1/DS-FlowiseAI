@@ -19,6 +19,6 @@
 
 ## Pinecone 연결 및 Conversational Retrieval QA Chain 생성
 
-임베딩 및 데이터를 Upsert한 `Pinecone` VectorDB와 LLM Model을 사용하기 위한 `ChatOpenAI`를 `Conversational Retrieval QA Chain`에 연결하여 대화형 쳬인을 생성합니다.
+임베딩 및 데이터를 Upsert한 `Pinecone` VectorDB와 LLM Model을 사용하기 위한 `ChatOpenAI`를 `Conversational Retrieval QA Chain`에 연결하여 대화형 체인을 생성합니다.
 
 <img src="./images/Conversational Retrieval QA Chain/ChatOpenAI_Pincone_Chain.png">
