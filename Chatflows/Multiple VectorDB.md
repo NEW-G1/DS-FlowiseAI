@@ -26,10 +26,13 @@
 
 2. 분할한 텍스트를 `Pinecone`에 임베딩 한 후 `Retrieval QA Chain`와 `Chain Tool`을 사용하여 검색형 체인 및 Tool을 생성합니다.
 
+<img src="./images/Multiple VectorDB/Multiple Pinecone.png">
+
+
 ## Multiple VectorDB Agent 생성
 
 앞서 생성한 `Vectara Chain Tool`, `Pinecone Chain Tool`, LLM Model을 사용하기 위한 `ChatOpenAI`, `Buffer Memory`를 
 
 `Conversational Agent`에 연결하여 `Agent`를 생성합니다.
 
-<img src="./images/Multiple VectorDB/Create Agent.png">
+<img src="./images/Multiple VectorDB/Multiple Vector DB_Agent.png">
