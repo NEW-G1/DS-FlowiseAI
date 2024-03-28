@@ -15,7 +15,7 @@
 
 2. `Serp API`를 통한 웹서치 Tool을 사용하기 위해 `Serp API Key`를 설정합니다.
 
-<img src="./images/Conversational Agent Memory.png/OpenAPI_SerpAPI.png">
+<img src="./images/Conversational Agent/OpenAPI_SerpAPI.png">
 
 
 ## Tool 생성 및 Conversational Agent 연결
