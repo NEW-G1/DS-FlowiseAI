@@ -1,8 +1,8 @@
 # Conversational Retrieval QA Chain
 
-**주요내용**
+### **주요내용**
 
-**✨💡✨ Text파일을 사용한 검색 기반 대화형 Chain Chatflow 생성**
+### **✨💡✨ Text파일을 사용한 검색 기반 대화형 Chain Chatflow 생성**
 
 - Text파일을 Pinecone VectorDB에 로드한 후 Pinecone 검색 기반 대화형 챗봇을 생성합니다.
 
