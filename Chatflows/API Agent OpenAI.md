@@ -2,7 +2,7 @@
 
 **주요내용**
 
-**🤖 OpenAI Cahin 및 OpenAI Function Agent를 사용하여 API를 호출하는 Chatflow 생성**
+**✨💡✨ OpenAI Cahin 및 OpenAI Function Agent를 사용하여 API를 호출하는 Chatflow 생성**
 
 - `OpenAI Function Agent`와 `Chain`을 사용하여 호출할 API를 자동으로 결정하고 대화에서 URL 및 Body 요청 생성합니다.
 

@@ -2,7 +2,7 @@
 
 **주요내용**
 
-**🤖 Few Shot Prompt Template을 사용하여 반의어를 출력하는 Chatflow 생성**
+**✨💡✨ Few Shot Prompt Template을 사용하여 반의어를 출력하는 Chatflow 생성**
 
 - 프롬프트에 예제를 구축할 수 있는`Few Shot Prompt Template`를 사용하여 프롬프트 예제를 구축합니다.
 
