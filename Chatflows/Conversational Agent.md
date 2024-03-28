@@ -18,10 +18,10 @@
 <img src="./images/Conversational Agent/OpenAPI_SerpAPI.png">
 
 
-## Tool 생성 및 Conversational Agent 연결
+## Tool 연결 및 Conversational Agent 생성
 
-앞서 생성한 웹서치를 위한 `Serp API`과  계산을 할 수 있는 `Calculator` Tool 을 `Converstional Agent`에 연결하여 `Agent`를 생성합니다.
+1. 앞서 생성한 웹서치를 위한 `Serp API`과  계산을 할 수 있는 `Calculator` Tool 을 `Converstional Agent`에 연결하여 `Agent`를 생성합니다.
 
-이전 대화를 기억하기 위한 `Buffer Memory`를 함께 연결합니다.
+2. 이전 대화를 기억하기 위한 `Buffer Memory`를 함께 연결합니다.
 
 <img src="./images/Conversational Agent/Conversational Agent Memory.png">
