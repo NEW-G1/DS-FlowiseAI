@@ -13,7 +13,7 @@
 
 1. `Pdf File` Document Loader를 사용하여 PDF 파일을 업로드 합니다. `CSV`, `text`등 다른 파일도 업로드 가능합니다.
 
-그 다음 `Recursive Character Text Splitter`를 사용하여 텍스트를 분할합니다.
+    그 다음 `Recursive Character Text Splitter`를 사용하여 텍스트를 분할합니다.
 
 2. 분할한 텍스트를 `Vectara`에 임베딩 한 후 `Retrieval QA Chain`와 `Chain Tool`을 사용하여 검색형 체인 및 Tool을 생성합니다.
 
@@ -22,9 +22,7 @@
 
 ## Pinecone VectorDB Chain Tool 생성
 
-1. `Text File` Document Loader를 사용하여 PDF 파일을 업로드 합니다.
-
-그 다음 `Recursive Character Text Splitter`를 사용하여 텍스트를 분할합니다.
+1. `Text File` Document Loader를 사용하여 PDF 파일을 업로드 합니다. 그 다음 `Recursive Character Text Splitter`를 사용하여 텍스트를 분할합니다.
 
 2. 분할한 텍스트를 `Pinecone`에 임베딩 한 후 `Retrieval QA Chain`와 `Chain Tool`을 사용하여 검색형 체인 및 Tool을 생성합니다.
 
