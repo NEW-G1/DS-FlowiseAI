@@ -1,4 +1,4 @@
-# 🔑 Flowise에 Credential 설정하기
+# 🔑 Credential
 
 ### **💡 각 프로그램별로 Credential 설정하기**
 
