@@ -6,6 +6,7 @@
 
 - `Vectara`, `Pinecone` 등의 여러개의 VectorDB 기반 Retriever를 생성하여 대화형 Agent를 생성합니다.
 
+
 <img src="./images/Multiple VectorDB/Multiple Vector DB.png" alt="API Agent OpenAI">
 
 
