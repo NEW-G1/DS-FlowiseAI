@@ -10,7 +10,7 @@
 <img src="./images/Multiple VectorDB/Multiple Vector DB.png" alt="API Agent OpenAI">
 
 
-## Vectara VectorDB Chain Tool 생성
+## VectaraDB Chain Tool 생성
 
 1. `Pdf File` Document Loader를 사용하여 PDF 파일을 업로드 합니다. `CSV`, `text`등 다른 파일도 업로드 가능합니다.
 
@@ -21,7 +21,7 @@
 <img src="./images/Multiple VectorDB/Multiple Vectara.png">
 
 
-## Pinecone VectorDB Chain Tool 생성
+## PineconeDB Chain Tool 생성
 
 1. `Text File` Document Loader를 사용하여 PDF 파일을 업로드 합니다. 그 다음 `Recursive Character Text Splitter`를 사용하여 텍스트를 분할합니다.
 
